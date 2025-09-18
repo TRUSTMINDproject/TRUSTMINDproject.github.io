@@ -1,21 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-09-18
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        'TRUSTMIND: AI in Mental Health'
       image:
-        filename: welcome.jpg
+        filename: logo_large.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **TRUSTMIND** project is led by a multidisciplinary team of scientists to investigate the pitfalls and challenges of using medical AI in the context of mental health.
   
   - block: collection
     content:
@@ -45,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: diverse_team.png
           filters:
             brightness: 1
           parallax: false
