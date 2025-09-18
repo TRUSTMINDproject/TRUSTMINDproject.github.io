@@ -10,7 +10,7 @@ sections:
       slides:
       - title: 👋 Welcome to the group
         content: Take a look at what we're working on...
-        align: center
+        align: left
         background:
           image:
             filename: coders.jpg
@@ -18,12 +18,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: Meet our Team
+        content: 'TRUSTMIND is led by a multidisciplinary team including reseachers with backgrounds in ethics, machine learning, neuroscience, epidemiology, and legal studies.'
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: senior_team_meeting.jpg
             filters:
               brightness: 0.7
           position: center
