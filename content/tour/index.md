@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: TRUSTMIND: AI in Mental Health
-        content: Ensuring Evaluation, Trustworthiness, and Ethical Considerations
+        content: 'Ensuring Evaluation, Trustworthiness, and Ethical Considerations'
         align: left
         background:
           image:
@@ -18,14 +18,14 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title:
+      - title: a
         content: ''
         align: center
         background:
           image:
             filename: goals.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.9
           position: center
           color: '#555'
       - title: Meet our Team
