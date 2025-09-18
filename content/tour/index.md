@@ -1,6 +1,6 @@
 ---
-title: Tour
-date: 2022-10-24
+title: Home
+date: 2025-9-19
 
 type: landing
 
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: TRUSTMIND: AI in Mental Health
+        content: Ensuring Evaluation, Trustworthiness, and Ethical Considerations
         align: left
         background:
           image:
@@ -18,6 +18,16 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+      - title:
+        content: ''
+        align: center
+        background:
+          image:
+            filename: goals.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
       - title: Meet our Team
         content: 'TRUSTMIND is led by a multidisciplinary team including reseachers with backgrounds in ethics, machine learning, neuroscience, epidemiology, and legal studies.'
         align: center
@@ -28,27 +38,24 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Our previous work has touched on the intersection of mental health, fairness, and machine learning.
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: logo.png
             filters:
               brightness: 0.5
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: See some of our work
+          url: ../publications/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
