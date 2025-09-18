@@ -8,13 +8,34 @@ sections:
   - block: hero
     content:
       title: |
-        'TRUSTMIND: AI in Mental Health'
+        TRUSTMIND: AI in Mental Health
       image:
         filename: logo_large.png
       text: |
         <br>
         
         The **TRUSTMIND** project is led by a multidisciplinary team of scientists to investigate the pitfalls and challenges of using medical AI in the context of mental health.
+
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: goals.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+    
   
   - block: collection
     content:
@@ -35,25 +56,6 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: diverse_team.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     content:
