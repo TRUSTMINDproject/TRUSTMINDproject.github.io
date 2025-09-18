@@ -10,10 +10,8 @@ sections:
       title: Contact
       text: |-
         We are always open to collaborate, take feedback, or accept invitations to present our ongoing work. We encourage people to reach out to us if you are looking for research opportunities at the intersection of AI, mental health, and fairness.
-      email: test@example.org
       address:
-        city: Copenhagen
-        country: Denmark
+        city: Copenhagen, Denmark
       coordinates:
         latitude: '55.70414044076822'
         longitude: '12.55587913170348'
