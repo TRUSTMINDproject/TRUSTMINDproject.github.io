@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: TRUSTMIND: AI in Mental Health
+      - title: 'TRUSTMIND: AI in Mental Health'
         content: 'Ensuring Evaluation, Trustworthiness, and Ethical Considerations'
         align: left
         background:
