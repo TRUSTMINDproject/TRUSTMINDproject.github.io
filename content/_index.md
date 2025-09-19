@@ -25,12 +25,12 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: goals.jpg
+          filename: process.png
           filters:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: actual
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
