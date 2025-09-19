@@ -13,19 +13,32 @@ sections:
         align: left
         background:
           image:
-            filename: coders.jpg
+            filename: logo.png
             filters:
               brightness: 0.7
+          size: actual
           position: right
           color: '#666'
-      - title: a
+      - title: 
         content: ''
         align: center
         background:
           image:
             filename: goals.jpg
             filters:
-              brightness: 0.9
+              brightness: 1
+          size: actual
+          position: center
+          color: '#555'
+      - title: 
+        content: ''
+        align: center
+        background:
+          image:
+            filename: process.jpg
+            filters:
+              brightness: 1
+          size: actual
           position: center
           color: '#555'
       - title: Meet our Team
@@ -33,7 +46,7 @@ sections:
         align: center
         background:
           image:
-            filename: senior_team_meeting.jpg
+            filename: senior_team.jpg
             filters:
               brightness: 0.7
           position: center
@@ -42,9 +55,10 @@ sections:
         align: right
         background:
           image:
-            filename: logo.png
+            filename: logo_large.png
             filters:
               brightness: 0.5
+          size: actual
           position: center
           color: '#333'
         link:
@@ -57,5 +71,5 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 ---
