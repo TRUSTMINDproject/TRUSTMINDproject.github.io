@@ -1,6 +1,6 @@
 ---
 title: Melanie Ganz-Benjaminsen recieves 20 mio kr. i from The Lundbeck Foundation Collaborative Projects-program 
-date: 2025-15-01
+date: 2025-01-15
 ---
 
 Congratulations to Melanie and collaborators for obtaining funding for TRUSTMIND!
