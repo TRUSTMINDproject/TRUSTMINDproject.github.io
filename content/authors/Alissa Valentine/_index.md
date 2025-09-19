@@ -42,9 +42,6 @@ education:
       year: Philadelphia
 
 social:
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/alissavalentine.bsky.social
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alissa-valentine
