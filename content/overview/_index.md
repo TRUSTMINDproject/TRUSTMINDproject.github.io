@@ -35,7 +35,7 @@ sections:
         align: center
         background:
           image:
-            filename: process.jpg
+            filename: process.png
             filters:
               brightness: 1
           size: actual
