@@ -10,31 +10,23 @@ last_name: Osler
 superuser: true
 
 # Role/position
-role: Professor
+role: Clinical Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Denmark Technical University (DTU) Compute, Department of Applied Mathematics and Computer Science
-
-
-website:
-  - https://people.compute.dtu.dk/afhar/
+  - name: University of Copenhagen, Department of Public Health, Section of Epidemiology
 
 interests:
-  - Machine learning
-  - Medial image analysis
-
+  - Epidemiology
+  - Mental health
 
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://dk.linkedin.com/in/aasaferagen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=MNDVpoUAAAAJ&hl=en
+    link: https://orcid.org/0000-0002-6921-220X
   - icon: globe
     icon_pack: fas
-    link: https://orbit.dtu.dk/en/persons/aasa-feragen
+    link: https://researchprofiles.ku.dk/en/persons/merete-osler
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -45,7 +37,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Scientists
+  - Researchers
 ---
 ### Website:
-- https://people.compute.dtu.dk/afhar/
+- https://researchprofiles.ku.dk/en/persons/merete-osler
