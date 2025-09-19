@@ -7,10 +7,7 @@ first_name: Alissa Andrea
 last_name: Valentine
 
 # Is this the primary user of the site?
-superuser: false
-
-# position
-position: 2
+superuser: true
 
 # Role/position
 role: Postdoctoral Researcher
