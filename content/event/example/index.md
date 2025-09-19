@@ -1,28 +1,27 @@
 ---
-title: Example Event
+title: Aasa, Melanie, Sune, and others help in organizing or presenting work at D3A.
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Danish Digitalization, Data Science and AI 3.0
+event_url: https://d3aconference.dk/
 
-location: Wowchemy HQ
+location: Nyborg Strand Hotel
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Østerøvej 2
+  city: Nyborg
+  postcode: '5800'
+  country: Denmark
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Danish Digitalization, Data Science and AI 3.0
+abstract: Each year D3A brings together researchers, students, and professionals from the fields of computer science, data science and AI to share cutting-edge research and insights, exchange ideas, gain new insights, and build valuable connections across geographical and scientific boundaries. Danish Digitalization, Data Science and AI (D3A) is a national conference hosted by Pioneer Centre for AI (P1), Danish Data Science Academy (DDSA), and Digital Research Center Denmark (DIREC).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-08-26T09:00:00Z'
+date_end: '2025-08-27T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-08-28T00:00:00Z'
 
 authors: []
 tags: []
@@ -31,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**D3A**](https://d3aconference.dk/photo-gallery-d3a-3-0/)'
   focal_point: Right
 
 url_code: ''
@@ -53,11 +52,3 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
