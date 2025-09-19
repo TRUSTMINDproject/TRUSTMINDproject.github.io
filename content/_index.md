@@ -36,6 +36,45 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
     
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: diverse_team.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: actual
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: team_structure.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: actual
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
   
   - block: collection
     content:
