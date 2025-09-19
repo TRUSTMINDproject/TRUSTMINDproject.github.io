@@ -11,7 +11,7 @@ sections:
       text: |-
         We are always open to collaborate, take feedback, or accept invitations to present our ongoing work. We encourage people to reach out to us if you are looking for research opportunities at the intersection of AI, mental health, and fairness.
       coordinates:
-        latitude: '55.70228218817298', 
+        latitude: '55.70228218817298'
         longitude: '12.561838017796065'
       #contact_links:
       #  - icon: comments
