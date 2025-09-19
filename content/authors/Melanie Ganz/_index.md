@@ -32,9 +32,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/melanieganzbenjaminsen/
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/melanieganzben1.bsky.social 
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.dk/citations?user=5AXE0skAAAAJ&hl=da 
