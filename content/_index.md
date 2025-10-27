@@ -10,7 +10,7 @@ sections:
       title: |
         TRUSTMIND: AI in Mental Health
       image:
-        filename: logo_2.png
+        filename: logo_small.png
       text: |
         <br>
         
