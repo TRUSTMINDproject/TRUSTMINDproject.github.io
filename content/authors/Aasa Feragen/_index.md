@@ -42,5 +42,7 @@ highlight_name: true
 user_groups:
   - Researchers
 ---
+Aasa Feragen is a Full Professor at the Technical University of Denmark. Aasa's research sits at the intersection of machine learning, mathematics and healthcare, with a particular focus on bringing responsible AI tools to practical use. This includes a focus on uncertainty quantification, explainable AI and algorithmic fairness, as well as usability and reliability also of responsible AI tools. Aasa likes to contribute to community building and -maintenance, including as program chair of MICCAI (2024), IPMI (2021) and MIDL (2019) as well as general co-chair of EurIPS (2025).
+
 ### Website:
-- https://people.compute.dtu.dk/afhar/
+- https://www.linkedin.com/in/aasaferagen
