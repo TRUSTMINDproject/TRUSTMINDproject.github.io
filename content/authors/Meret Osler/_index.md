@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Meret Osler
+title: Merete Osler
 
 # Full Name (for SEO)
-first_name: Meret
+first_name: Merete
 last_name: Osler
 
 # Is this the primary user of the site?
@@ -26,7 +26,7 @@ social:
     link: https://orcid.org/0000-0002-6921-220X
   - icon: globe
     icon_pack: fas
-    link: https://researchprofiles.ku.dk/en/persons/merete-osler
+    link: https://research.regionh.dk/da/persons/merete-osler/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -39,5 +39,8 @@ highlight_name: true
 user_groups:
   - Researchers
 ---
+Merete Osler is professor and senior physician at the Center for Clinical Research and Prevention, Bispebjerg and Frederiksberg Hospital and affiliated the Department of Public Health at the University of Copenhagen.
+Her research expertise lies in epidemiology and register-based studies, with focus on how early-life risk factors influence mental health outcomes. She also investigates social and geographical disparities in the diagnosis and treatment of mental disorders, including the associated therapeutic effects and potential adverse consequences.
+
 ### Website:
-- https://researchprofiles.ku.dk/en/persons/merete-osler
+- https://research.regionh.dk/da/persons/merete-osler/
