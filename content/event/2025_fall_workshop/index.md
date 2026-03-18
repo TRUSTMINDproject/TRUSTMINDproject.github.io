@@ -3,9 +3,9 @@ title: TRUSTMIND Workshop Upcoming
 
 event: TRUSTMIND Autumn Workshop
 
-location: TBD
+location: DIKU
 
-summary: The research team for TRUSTMIND are planning a workshop for the team to share updates and next steps.
+summary: The research team for TRUSTMIND had a collaborative kick off meeting on November 7, 2025.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -15,8 +15,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-08-28T00:00:00Z'
 
-authors: []
-tags: []
+# authors: []
+# tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
