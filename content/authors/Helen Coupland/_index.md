@@ -10,7 +10,7 @@ last_name: Coupland
 superuser: false
 
 # Role/position
-role: Postdoctoral Reseacher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -41,7 +41,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 ### Website:
 - https://nru.dk/index.php/about-us/staff-list/95-postdocs/565-helen-coupland
