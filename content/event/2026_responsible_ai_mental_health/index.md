@@ -1,5 +1,6 @@
 ---
 title: TRUSTMIND organizes an interdisciplinary workshop on Responsible AI for Mental Health
+profile: false
 
 event: Responsible AI for Mental Health
 event_url: https://trustmindproject.github.io/responsibleAI4mentalhealth/

@@ -1,5 +1,6 @@
 ---
 title: Aasa, Melanie, Sune, and others help in organizing or presenting work at D3A.
+profile: false
 
 event: Danish Digitalization, Data Science and AI 3.0
 event_url: https://d3aconference.dk/
