@@ -1,5 +1,6 @@
 ---
 title: TRUSTMIND 2026 Workshop
+profile: false
 
 event: TRUSTMIND Yearly Workshop
 

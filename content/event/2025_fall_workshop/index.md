@@ -1,5 +1,6 @@
 ---
 title: TRUSTMIND Workshop Upcoming
+profile: false
 
 event: TRUSTMIND Autumn Workshop
 
