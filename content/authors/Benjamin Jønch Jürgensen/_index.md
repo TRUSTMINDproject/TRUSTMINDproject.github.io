@@ -10,7 +10,7 @@ last_name: Jürgensen
 superuser: false
 
 # Role/position
-role: Research Assistant / Programmer
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
