@@ -10,7 +10,7 @@ last_name: Marker
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
