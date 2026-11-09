@@ -37,6 +37,8 @@ featured: true
 image:
   caption: 'Responsible AI for Mental Health Workshop'
   focal_point: Right
+  width: "4000"
+  height: "3000"
 
 url_code: ''
 url_pdf: ''
